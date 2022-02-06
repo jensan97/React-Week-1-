@@ -1,0 +1,31 @@
+ * {
+background-color: powderblue;
+
+
+
+
+body,html {
+    margin: 0;
+    font font-family:  "Helvetica Neue";
+  }
+  
+ 
+  
+  
+  li {
+    display: inline;
+  }
+  
+  a {
+    outline: none;
+    text-decoration: none;
+    display: inline-block;
+    width: 19.5%;
+    margin-right: 0.625%;
+    text-align: center;
+    line-height: 3;
+    color: purple;
+  }
+  
+ 
+  
